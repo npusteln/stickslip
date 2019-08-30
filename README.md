@@ -1,10 +1,10 @@
 # stickslip
 Nonlinear denoising for solid friction dynamics characterization
 ***************************************************************************
-* authors: Nelly Pustelnik and Valerie Vidal                              *
-* institution: Laboratoire de Physique de l'ENS de Lyon                   *
-* date: April 30 2019                                                   *
-* License CeCILL-B                                                        *
+* authors: Nelly Pustelnik and Valerie Vidal                              
+* institution: Laboratoire de Physique de l'ENS de Lyon                   
+* date: April 30 2019                                                   
+* License CeCILL-B                                                        
 ***************************************************************************
 *********************************************************
 * RECOMMENDATIONS:                                   	*
